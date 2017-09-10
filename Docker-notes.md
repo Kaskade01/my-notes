@@ -103,7 +103,17 @@ $ docker-machine restart main
 $ eval $(docker-machine env main)
 ```
 ---
-### Regenerate Certification
+#### Regenerate Certification
 ```
 $ docker-machine regenerate-certs main
+```
+---
+### Create host and set memory
+```
+$ docker-machine create -d virtualbox --virtualbox-memory 4096 default
+```
+
+### Building from Dockerfile
+```
+$ docker build -t image_name:tag_name
 ```
