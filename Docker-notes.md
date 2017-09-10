@@ -30,7 +30,7 @@ If the ubuntu image is not available, docker will try and pull it from [docker-h
 
 ---
 
-###$ To run a Docker host.
+#### To run a Docker host.
 ```
 $ docker-machine start [name of host] // i.e main
 ```
@@ -88,10 +88,22 @@ This should return a file path
 ```
 $ docker rm [container name or id]
 ```
-### Deleting an image
+#### Deleting an image
 ```
 $ docker rmi [image name]
 ```
 
-
-
+---
+### Docker Start & Restart
+```
+$ docker-machine restart main
+```
+#### After start or restart
+```
+$ eval $(docker-machine env main)
+```
+---
+### Regenerate Certification
+```
+$ docker-machine regenerate-certs main
+```
