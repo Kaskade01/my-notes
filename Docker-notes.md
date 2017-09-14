@@ -117,3 +117,9 @@ $ docker-machine create -d virtualbox --virtualbox-memory 4096 default
 ```
 $ docker build -t image_name:tag_name
 ```
+
+## Docker Compose
+Compose containers
+```
+$ docker-compose -p [name] up
+```
