@@ -30,3 +30,8 @@ cp * /usr/local/bin
 ```
 $ which mongod
 ```
+### Importing files to mongo
+Example, if you have `events.json` file.
+```
+$ mongoimport --db mydb --collection events --type json --file events.json --jsonArray
+```
