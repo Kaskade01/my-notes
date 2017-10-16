@@ -8,3 +8,5 @@ _not in order_
 [Hardy Jones](https://joneshf.github.io/)
 
 [Phil Freeman](http://blog.functorial.com/index.html)
+
+[Justin Woo](https://qiita.com/kimagure)
