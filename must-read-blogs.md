@@ -14,3 +14,5 @@ _not in order_
 [Structur and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
 
 [Naomi's stack overflow answers](https://stackoverflow.com/users/633183/naomik?tab=answers&sort=activity)
+
+[Susan Potter - Algebraic Data Type vs Abstract Data Type](http://www.functionalalgebra.com/articles/abstract-algebraic-data-types-algebraic-structures/)
