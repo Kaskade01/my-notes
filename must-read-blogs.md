@@ -18,3 +18,5 @@ _not in order_
 [Susan Potter - Algebraic Data Type vs Abstract Data Type](http://www.functionalalgebra.com/articles/abstract-algebraic-data-types-algebraic-structures/)
 
 [Matt Parson - Contributing to GHC](http://www.parsonsmatt.org/2017/10/29/contributing_to_ghc.html)
+
+[Brian McKenna - Polymophic Programming](https://brianmckenna.org/blog/polymorphic_programming)
