@@ -1,6 +1,9 @@
 # Must Read Blogs
 _not in order_
 
+## Haskell
+[Susan Potter - Algebraic Data Type vs Abstract Data Type](http://www.functionalalgebra.com/articles/abstract-algebraic-data-types-algebraic-structures/)
+
 [Stephen Diehl, Parsers](http://dev.stephendiehl.com/fun/002_parsers.html)
 
 [Tom Harding's blogs](http://www.tomharding.me/)
@@ -9,14 +12,18 @@ _not in order_
 
 [Phil Freeman](http://blog.functorial.com/index.html)
 
+[Matt Parson - Contributing to GHC](http://www.parsonsmatt.org/2017/10/29/contributing_to_ghc.html)
+
+[Brian McKenna - Polymophic Programming](https://brianmckenna.org/blog/polymorphic_programming)
+
+## Purescript
 [Justin Woo](https://qiita.com/kimagure)
+
+## General Topics
 
 [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
 
 [Naomi's stack overflow answers](https://stackoverflow.com/users/633183/naomik?tab=answers&sort=activity)
 
-[Susan Potter - Algebraic Data Type vs Abstract Data Type](http://www.functionalalgebra.com/articles/abstract-algebraic-data-types-algebraic-structures/)
 
-[Matt Parson - Contributing to GHC](http://www.parsonsmatt.org/2017/10/29/contributing_to_ghc.html)
 
-[Brian McKenna - Polymophic Programming](https://brianmckenna.org/blog/polymorphic_programming)
