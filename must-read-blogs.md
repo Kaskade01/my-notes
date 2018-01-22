@@ -25,5 +25,6 @@ _not in order_
 
 [Naomi's stack overflow answers](https://stackoverflow.com/users/633183/naomik?tab=answers&sort=activity)
 
+[Ron Presler](git@github.com:piq9117/my-notes.git)
 
 
