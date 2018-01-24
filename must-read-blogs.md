@@ -16,6 +16,8 @@ _not in order_
 
 [Brian McKenna - Polymophic Programming](https://brianmckenna.org/blog/polymorphic_programming)
 
+[Julie Moronuki - The Nesting Instinct](https://argumatronic.com/posts/2018-01-23-the-nesting-instinct.html)
+
 ## Purescript
 [Justin Woo](https://qiita.com/kimagure)
 
