@@ -29,4 +29,6 @@ _not in order_
 
 [Ron Presler](git@github.com:piq9117/my-notes.git)
 
+[Grabriel Gonzalez - Haskell for all]http://www.haskellforall.com/2012/08/the-category-design-pattern.html
+
 
