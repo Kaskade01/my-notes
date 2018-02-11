@@ -18,6 +18,8 @@ _not in order_
 
 [Julie Moronuki - The Nesting Instinct](https://argumatronic.com/posts/2018-01-23-the-nesting-instinct.html)
 
+[Alexis King](https://lexi-lambda.github.io/)
+
 ## Purescript
 [Justin Woo](https://qiita.com/kimagure)
 
@@ -29,6 +31,5 @@ _not in order_
 
 [Ron Presler](git@github.com:piq9117/my-notes.git)
 
-[Grabriel Gonzalez - Haskell for all]http://www.haskellforall.com/2012/08/the-category-design-pattern.html
-
+[Grabriel Gonzalez - Haskell for all](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
 
