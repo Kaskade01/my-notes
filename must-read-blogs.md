@@ -20,6 +20,8 @@ _not in order_
 
 [Alexis King](https://lexi-lambda.github.io/)
 
+[Oskar Wickstrom - FSM](https://wickstrom.tech/finite-state-machines/2017/11/10/finite-state-machines-part-1-modeling-with-haskell.html)
+
 ## Purescript
 [Justin Woo](https://qiita.com/kimagure)
 
