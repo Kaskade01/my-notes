@@ -23,6 +23,8 @@ _not in order_
 [Oskar Wickstrom - FSM](https://wickstrom.tech/finite-state-machines/2017/11/10/finite-state-machines-part-1-modeling-with-haskell.html)
 
 [Gershom Bazerman](http://comonad.com/reader/)
+
+[Vaibhav Sagar](http://vaibhavsagar.com/)
 ## Purescript
 [Justin Woo](https://qiita.com/kimagure)
 
