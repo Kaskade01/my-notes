@@ -2,7 +2,7 @@
 _not in order_
 
 ## Haskell
-[Chris](https://two-wrongs.com/a-gentle-introduction-to-monad-transformers)
+[Chris - Gentle Introduction to Monad Transformer](https://two-wrongs.com/a-gentle-introduction-to-monad-transformers)
 
 [Susan Potter - Algebraic Data Type vs Abstract Data Type](http://www.functionalalgebra.com/articles/abstract-algebraic-data-types-algebraic-structures/)
 
