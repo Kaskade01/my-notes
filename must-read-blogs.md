@@ -2,6 +2,7 @@
 _not in order_
 
 ## Haskell
+[Chris](https://two-wrongs.com/a-gentle-introduction-to-monad-transformers)
 [Susan Potter - Algebraic Data Type vs Abstract Data Type](http://www.functionalalgebra.com/articles/abstract-algebraic-data-types-algebraic-structures/)
 
 [Stephen Diehl, Parsers](http://dev.stephendiehl.com/fun/002_parsers.html)
