@@ -2,6 +2,8 @@
 _not in order_
 
 ## Haskell
+[Dan Piponi - Haskell Monoids and Their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
+
 [Chris - Gentle Introduction to Monad Transformer](https://two-wrongs.com/a-gentle-introduction-to-monad-transformers)
 
 [Susan Potter - Algebraic Data Type vs Abstract Data Type](http://www.functionalalgebra.com/articles/abstract-algebraic-data-types-algebraic-structures/)
