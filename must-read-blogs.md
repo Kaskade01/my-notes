@@ -2,6 +2,8 @@
 _not in order_
 
 ## Haskell
+[Stephen Dhiel - Monads made difficult](http://www.stephendiehl.com/posts/monads.html)
+
 [Dan Piponi - Haskell Monoids and Their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
 
 [Chris - Gentle Introduction to Monad Transformer](https://two-wrongs.com/a-gentle-introduction-to-monad-transformers)
