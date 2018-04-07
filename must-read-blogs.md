@@ -2,6 +2,10 @@
 _not in order_
 
 ## Haskell
+[typeclasses - contravariance](https://typeclasses.com/contravariance)
+
+[typeclasses - profunctors](https://typeclasses.com/profunctors)
+
 [Stephen Dhiel - Monads made difficult](http://www.stephendiehl.com/posts/monads.html)
 
 [Dan Piponi - Haskell Monoids and Their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
