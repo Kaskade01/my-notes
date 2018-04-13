@@ -2,6 +2,8 @@
 _not in order_
 
 ## Haskell
+[foldable and traversable - Jakub Arnold](https://blog.jakuba.net/2014/07/30/foldable-and-traversable.html)
+
 [typeclasses - contravariance](https://typeclasses.com/contravariance)
 
 [typeclasses - profunctors](https://typeclasses.com/profunctors)
