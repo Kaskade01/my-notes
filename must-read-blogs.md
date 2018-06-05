@@ -2,6 +2,8 @@
 _not in order_
 
 ## Haskell
+[Gentle Introduction to Monad Transformers](https://two-wrongs.com/a-gentle-introduction-to-monad-transformers.html)
+
 [Applicative Programming with Effects](http://strictlypositive.org/Idiom.pdf)
 
 [The essence of the Iterator pattern](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/iterator.pdf)
