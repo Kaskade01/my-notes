@@ -2,6 +2,8 @@
 _not in order_
 
 ## Haskell
+[Oleg Kiselyov](http://okmij.org/ftp/)
+
 [Gentle Introduction to Monad Transformers](https://two-wrongs.com/a-gentle-introduction-to-monad-transformers.html)
 
 [Applicative Programming with Effects](http://strictlypositive.org/Idiom.pdf)
