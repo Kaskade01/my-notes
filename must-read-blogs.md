@@ -60,3 +60,7 @@ _not in order_
 
 [Typescript and validations at runtime boundaries](https://lorefnon.tech/2018/03/25/typescript-and-validations-at-runtime-boundaries/)
 
+[Stronger Javascript with Opaque Types](https://codemix.com/opaque-types-in-javascript/)
+
+[Nominal Typing Techniques in Typescript](https://michalzalecki.com/nominal-typing-in-typescript/)
+
