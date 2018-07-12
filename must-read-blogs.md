@@ -45,6 +45,9 @@ _not in order_
 [Gershom Bazerman](http://comonad.com/reader/)
 
 [Vaibhav Sagar](http://vaibhavsagar.com/)
+
+[Building Haskell Web Api](https://lettier.github.io/posts/2016-07-15-building-a-haskell-web-api.html)
+
 ## Purescript
 [Justin Woo](https://qiita.com/kimagure)
 
