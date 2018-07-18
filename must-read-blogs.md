@@ -67,3 +67,5 @@ _not in order_
 
 [Nominal Typing Techniques in Typescript](https://michalzalecki.com/nominal-typing-in-typescript/)
 
+[Using Unique Symbols in Newtype-ts Issue](https://github.com/gcanti/newtype-ts/issues/9)
+
