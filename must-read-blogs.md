@@ -2,6 +2,8 @@
 _not in order_
 
 ## Haskell
+[What I wish I knew before learning Haskell](http://dev.stephendiehl.com/hask/)
+
 [Oleg Kiselyov](http://okmij.org/ftp/)
 
 [Gentle Introduction to Monad Transformers](https://two-wrongs.com/a-gentle-introduction-to-monad-transformers.html)
