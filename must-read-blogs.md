@@ -76,3 +76,5 @@ _not in order_
 [Manual Types is No Fun: Introducting TypeWiz](https://medium.com/@urish/manual-typing-is-no-fun-introducing-typewiz-58e3e8813f4c)
 
 [Diving into the Internals of TypeScript: How I Built TypeWiz](https://medium.com/@urish/diving-into-the-internals-of-typescript-how-i-built-typewiz-d273bbef3565)
+
+[Lysxia](http://blog.poisson.chat/)
