@@ -78,3 +78,5 @@ _not in order_
 [Diving into the Internals of TypeScript: How I Built TypeWiz](https://medium.com/@urish/diving-into-the-internals-of-typescript-how-i-built-typewiz-d273bbef3565)
 
 [Lysxia](http://blog.poisson.chat/)
+
+[My Haskell Journe](http://cvlad.info/haskell/)
