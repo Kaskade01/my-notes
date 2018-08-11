@@ -50,6 +50,8 @@ _not in order_
 
 [Building Haskell Web Api](https://lettier.github.io/posts/2016-07-15-building-a-haskell-web-api.html)
 
+[My Haskell Journey](http://cvlad.info/haskell/)
+
 ## Purescript
 [Justin Woo](https://qiita.com/kimagure)
 
@@ -79,4 +81,3 @@ _not in order_
 
 [Lysxia](http://blog.poisson.chat/)
 
-[My Haskell Journey](http://cvlad.info/haskell/)
