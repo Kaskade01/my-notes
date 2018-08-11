@@ -79,4 +79,4 @@ _not in order_
 
 [Lysxia](http://blog.poisson.chat/)
 
-[My Haskell Journe](http://cvlad.info/haskell/)
+[My Haskell Journey](http://cvlad.info/haskell/)
