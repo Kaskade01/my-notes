@@ -81,3 +81,4 @@ _not in order_
 
 [Lysxia](http://blog.poisson.chat/)
 
+[Longing for Higher-Kinded c#](http://joeduffyblog.com/2008/11/04/longing-for-higherkinded-c/)
