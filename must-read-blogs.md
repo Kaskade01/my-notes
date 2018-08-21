@@ -81,3 +81,5 @@ _not in order_
 
 [Lysxia](http://blog.poisson.chat/)
 
+[higher order function in c#](https://weblogs.asp.net/dixin/functional-csharp-higher-order-function-currying-and-first-class-function)
+
