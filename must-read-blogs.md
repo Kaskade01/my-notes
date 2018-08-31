@@ -83,3 +83,5 @@ _not in order_
 
 [higher order function in c#](https://weblogs.asp.net/dixin/functional-csharp-higher-order-function-currying-and-first-class-function)
 
+[More Typeclasses in OCaml](http://blog.shaynefletcher.org/2017/05/more-type-classes-in-ocaml.html)
+
