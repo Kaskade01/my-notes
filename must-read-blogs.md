@@ -52,6 +52,8 @@ _not in order_
 
 [My Haskell Journey](http://cvlad.info/haskell/)
 
+[A Simple Reader Monad Example](https://blog.ssanj.net/posts/2014-09-23-A-Simple-Reader-Monad-Example.html)
+
 ## Purescript
 [Justin Woo](https://qiita.com/kimagure)
 
@@ -84,4 +86,6 @@ _not in order_
 [higher order function in c#](https://weblogs.asp.net/dixin/functional-csharp-higher-order-function-currying-and-first-class-function)
 
 [More Typeclasses in OCaml](http://blog.shaynefletcher.org/2017/05/more-type-classes-in-ocaml.html)
+
+[Practical Common Lisp](http://www.gigamonkeys.com/book/)
 
