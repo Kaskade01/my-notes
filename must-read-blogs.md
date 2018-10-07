@@ -57,6 +57,8 @@ _not in order_
 ## Purescript
 [Justin Woo](https://qiita.com/kimagure)
 
+[Phil Freeman](http://functorial.com/)
+
 ## OCaml/ReasonML
 
 [Chess](https://quernd.github.io/tutorials/tea-chess/index.html#org170418a)
