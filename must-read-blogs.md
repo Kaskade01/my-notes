@@ -57,6 +57,10 @@ _not in order_
 ## Purescript
 [Justin Woo](https://qiita.com/kimagure)
 
+## OCaml/ReasonML
+
+[Chess](https://quernd.github.io/tutorials/tea-chess/index.html#org170418a)
+
 ## General Topics
 
 [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
