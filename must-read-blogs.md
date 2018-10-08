@@ -98,3 +98,8 @@ _not in order_
 [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 
 [Using Parsec](http://book.realworldhaskell.org/read/using-parsec.html)
+
+## CSS
+
+[Pie chart](https://css-tricks.com/simple-interactive-pie-chart-with-css-variables-and-houdini-magic/)
+
