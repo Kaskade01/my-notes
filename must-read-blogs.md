@@ -54,6 +54,10 @@ _not in order_
 
 [A Simple Reader Monad Example](https://blog.ssanj.net/posts/2014-09-23-A-Simple-Reader-Monad-Example.html)
 
+[Grabriel Gonzalez - The category design pattern](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
+
+[Gabriel Gonzalez - Detailed walkthrough for a beginner Haskell program](http://www.haskellforall.com/2018/10/detailed-walkthrough-for-beginner.html)
+
 ## Purescript
 [Justin Woo](https://qiita.com/kimagure)
 
@@ -70,8 +74,6 @@ _not in order_
 [Naomi's stack overflow answers](https://stackoverflow.com/users/633183/naomik?tab=answers&sort=activity)
 
 [Ron Presler](git@github.com:piq9117/my-notes.git)
-
-[Grabriel Gonzalez - Haskell for all](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
 
 [Typescript and validations at runtime boundaries](https://lorefnon.tech/2018/03/25/typescript-and-validations-at-runtime-boundaries/)
 
