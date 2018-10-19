@@ -67,6 +67,8 @@ _not in order_
 
 [Chess](https://quernd.github.io/tutorials/tea-chess/index.html#org170418a)
 
+[Self Adjusting DOM](https://blog.janestreet.com/self-adjusting-dom/)
+
 ## General Topics
 
 [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
