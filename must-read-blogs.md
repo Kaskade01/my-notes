@@ -105,3 +105,6 @@ _not in order_
 
 [Pie chart](https://css-tricks.com/simple-interactive-pie-chart-with-css-variables-and-houdini-magic/)
 
+## Database
+[Relational table naming convention](https://stackoverflow.com/questions/4702728/relational-table-naming-convention/4703155#4703155)
+
