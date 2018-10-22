@@ -108,3 +108,5 @@ _not in order_
 ## Database
 [Relational table naming convention](https://stackoverflow.com/questions/4702728/relational-table-naming-convention/4703155#4703155)
 
+[Postgresql Tutorial](http://www.postgresqltutorial.com/postgresql-create-table/)
+
