@@ -69,6 +69,8 @@ _not in order_
 
 [Self Adjusting DOM](https://blog.janestreet.com/self-adjusting-dom/)
 
+[Ocaml for Haskellers](http://blog.ezyang.com/2010/10/ocaml-for-haskellers/)
+
 ## General Topics
 
 [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
