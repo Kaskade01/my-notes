@@ -71,6 +71,8 @@ _not in order_
 
 [Ocaml for Haskellers](http://blog.ezyang.com/2010/10/ocaml-for-haskellers/)
 
+[More Typeclasses in OCaml](http://blog.shaynefletcher.org/2017/05/more-type-classes-in-ocaml.html)
+
 ## General Topics
 
 [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
@@ -96,8 +98,6 @@ _not in order_
 [Lysxia](http://blog.poisson.chat/)
 
 [higher order function in c#](https://weblogs.asp.net/dixin/functional-csharp-higher-order-function-currying-and-first-class-function)
-
-[More Typeclasses in OCaml](http://blog.shaynefletcher.org/2017/05/more-type-classes-in-ocaml.html)
 
 [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 
