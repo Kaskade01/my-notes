@@ -72,6 +72,7 @@ _not in order_
 [Ocaml for Haskellers](http://blog.ezyang.com/2010/10/ocaml-for-haskellers/)
 
 [More Typeclasses in OCaml](http://blog.shaynefletcher.org/2017/05/more-type-classes-in-ocaml.html)
+[Implementing type-classes as Ocaml modules](http://blog.shaynefletcher.org/2016/10/implementing-type-classes-as-ocaml.html)
 
 ## General Topics
 
