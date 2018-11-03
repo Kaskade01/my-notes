@@ -77,6 +77,8 @@ _not in order_
 
 [Row polymorphism](https://www.cl.cam.ac.uk/teaching/1415/L28/rows.pdf)
 
+[Composable Error](http://keleshev.com/composable-error-handling-in-ocaml)
+
 ## General Topics
 
 [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
