@@ -74,6 +74,8 @@ _not in order_
 [More Typeclasses in OCaml](http://blog.shaynefletcher.org/2017/05/more-type-classes-in-ocaml.html)
 [Implementing type-classes as Ocaml modules](http://blog.shaynefletcher.org/2016/10/implementing-type-classes-as-ocaml.html)
 
+[Row polymorphism](https://www.cl.cam.ac.uk/teaching/1415/L28/rows.pdf)
+
 ## General Topics
 
 [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
