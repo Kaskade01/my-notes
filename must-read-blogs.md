@@ -79,6 +79,8 @@ _not in order_
 
 [Composable Error](http://keleshev.com/composable-error-handling-in-ocaml)
 
+[Higher Rank Polymorphism](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
+
 ## General Topics
 
 [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
