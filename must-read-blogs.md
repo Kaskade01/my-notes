@@ -65,6 +65,8 @@ _not in order_
 
 ## OCaml/ReasonML
 
+[GADTS](https://blog.janestreet.com/why-gadts-matter-for-performance/)
+
 [Chess](https://quernd.github.io/tutorials/tea-chess/index.html#org170418a)
 
 [Self Adjusting DOM](https://blog.janestreet.com/self-adjusting-dom/)
