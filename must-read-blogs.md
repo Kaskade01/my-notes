@@ -64,6 +64,8 @@ _not in order_
 [Phil Freeman](http://functorial.com/)
 
 ## OCaml/ReasonML
+[Ocaml - Hakell](https://wiki.haskell.org/OCaml)
+
 [Monads](http://ocamllabs.io/iocamljs/monads.html)
 
 [GADTS](https://blog.janestreet.com/why-gadts-matter-for-performance/)
