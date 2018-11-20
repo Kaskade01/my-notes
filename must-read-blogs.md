@@ -64,6 +64,8 @@ _not in order_
 [Phil Freeman](http://functorial.com/)
 
 ## OCaml/ReasonML
+[Haskell Typeclasses in Ocaml and C++](http://blog.shaynefletcher.org/2016/10/haskell-type-classes-in-ocaml-and-c.html)
+
 [Ocaml - Hakell](https://wiki.haskell.org/OCaml)
 
 [Monads](http://ocamllabs.io/iocamljs/monads.html)
