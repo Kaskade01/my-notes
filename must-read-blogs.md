@@ -89,6 +89,7 @@ _not in order_
 [Higher Rank Polymorphism](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
 
 ## General Topics
+[User Defined Types](https://www2.lib.uchicago.edu/keith/ocaml-class/userdefined.html)
 
 [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
 
