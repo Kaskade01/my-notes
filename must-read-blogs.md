@@ -64,6 +64,8 @@ _not in order_
 [Phil Freeman](http://functorial.com/)
 
 ## OCaml/ReasonML
+[Ocaml State Monad](http://blogs.perl.org/users/cyocum/2012/11/writing-state-monads-in-ocaml.html)
+
 [Demistifying Typeclasses](http://okmij.org/ftp/Computation/typeclass.html)
 
 [User Defined Types](https://www2.lib.uchicago.edu/keith/ocaml-class/userdefined.html)
