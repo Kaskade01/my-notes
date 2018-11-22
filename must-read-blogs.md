@@ -64,6 +64,8 @@ _not in order_
 [Phil Freeman](http://functorial.com/)
 
 ## OCaml/ReasonML
+[User Defined Types](https://www2.lib.uchicago.edu/keith/ocaml-class/userdefined.html)
+
 [Haskell Typeclasses in Ocaml and C++](http://blog.shaynefletcher.org/2016/10/haskell-type-classes-in-ocaml-and-c.html)
 
 [Ocaml - Hakell](https://wiki.haskell.org/OCaml)
@@ -89,8 +91,6 @@ _not in order_
 [Higher Rank Polymorphism](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
 
 ## General Topics
-[User Defined Types](https://www2.lib.uchicago.edu/keith/ocaml-class/userdefined.html)
-
 [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
 
 [Naomi's stack overflow answers](https://stackoverflow.com/users/633183/naomik?tab=answers&sort=activity)
