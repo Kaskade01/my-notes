@@ -64,6 +64,8 @@ _not in order_
 [Phil Freeman](http://functorial.com/)
 
 ## OCaml/ReasonML
+[Demistifying Typeclasses](http://okmij.org/ftp/Computation/typeclass.html)
+
 [User Defined Types](https://www2.lib.uchicago.edu/keith/ocaml-class/userdefined.html)
 
 [Haskell Typeclasses in Ocaml and C++](http://blog.shaynefletcher.org/2016/10/haskell-type-classes-in-ocaml-and-c.html)
