@@ -64,6 +64,10 @@ _not in order_
 [Phil Freeman](http://functorial.com/)
 
 ## OCaml/ReasonML
+[Ocaml Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html)
+
+[Bucklescript Manual](https://bucklescript.github.io/bucklescript/Manual.html)
+
 [Detecting use-cases for GADTS in Ocaml](https://mads-hartmann.com/ocaml/2015/01/05/gadt-ocaml.html)
 
 [Ocaml State Monad](http://blogs.perl.org/users/cyocum/2012/11/writing-state-monads-in-ocaml.html)
