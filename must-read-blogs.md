@@ -64,6 +64,8 @@ _not in order_
 [Phil Freeman](http://functorial.com/)
 
 ## OCaml/ReasonML
+[Detecting use-cases for GADTS in Ocaml](https://mads-hartmann.com/ocaml/2015/01/05/gadt-ocaml.html)
+
 [Ocaml State Monad](http://blogs.perl.org/users/cyocum/2012/11/writing-state-monads-in-ocaml.html)
 
 [Demistifying Typeclasses](http://okmij.org/ftp/Computation/typeclass.html)
