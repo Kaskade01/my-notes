@@ -64,6 +64,8 @@ _not in order_
 [Phil Freeman](http://functorial.com/)
 
 ## OCaml/ReasonML
+[First Steps with Category Theory](http://www.mseri.me/typeclass-ocaml/)
+
 [Ocaml Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html)
 
 [Bucklescript Manual](https://bucklescript.github.io/bucklescript/Manual.html)
