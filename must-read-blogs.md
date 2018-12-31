@@ -63,6 +63,8 @@ _not in order_
 
 [Phil Freeman](http://functorial.com/)
 
+[Real World Halogen](https://thomashoneyman.com/guides/real-world-halogen/)
+
 ## OCaml/ReasonML
 [First Steps with Category Theory](http://www.mseri.me/typeclass-ocaml/)
 
