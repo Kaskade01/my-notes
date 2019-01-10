@@ -2,6 +2,8 @@
 _not in order_
 
 ## Haskell
+[Beginner's guide to megaparsec](http://akashagrawal.me/beginners-guide-to-megaparsec/)
+
 [What I wish I knew before learning Haskell](http://dev.stephendiehl.com/hask/)
 
 [Oleg Kiselyov](http://okmij.org/ftp/)
