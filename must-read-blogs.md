@@ -73,6 +73,8 @@ _not in order_
 
 [Real World Halogen](https://thomashoneyman.com/guides/real-world-halogen/)
 
+[Example Real World App](https://github.com/thomashoneyman/purescript-halogen-realworld)
+
 ## OCaml/ReasonML
 [First Steps with Category Theory](http://www.mseri.me/typeclass-ocaml/)
 
