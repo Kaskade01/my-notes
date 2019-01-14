@@ -67,6 +67,10 @@ _not in order_
 
 [Real World Halogen](https://thomashoneyman.com/guides/real-world-halogen/)
 
+[Web api - part 1](https://abhinavsarkar.net/posts/ps-simple-rest-service/)
+
+[Web api - part 2](https://abhinavsarkar.net/posts/ps-simple-rest-service-2/)
+
 ## OCaml/ReasonML
 [First Steps with Category Theory](http://www.mseri.me/typeclass-ocaml/)
 
