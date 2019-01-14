@@ -71,6 +71,8 @@ _not in order_
 
 [Web api - part 2](https://abhinavsarkar.net/posts/ps-simple-rest-service-2/)
 
+[Real World Halogen](https://thomashoneyman.com/guides/real-world-halogen/)
+
 ## OCaml/ReasonML
 [First Steps with Category Theory](http://www.mseri.me/typeclass-ocaml/)
 
