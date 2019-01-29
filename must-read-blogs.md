@@ -75,6 +75,8 @@ _not in order_
 
 [Example Real World App](https://github.com/thomashoneyman/purescript-halogen-realworld)
 
+[React basic monorepo](https://github.com/KSF-Media/affresco)
+
 ## OCaml/ReasonML
 [First Steps with Category Theory](http://www.mseri.me/typeclass-ocaml/)
 
