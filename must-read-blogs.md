@@ -2,6 +2,8 @@
 _not in order_
 
 ## Haskell
+[Refactoring to Monad Transformer Stack](https://thoughtbot.com/blog/refactoring-to-a-monad-transformer-stack)
+
 [Beginner's guide to megaparsec](http://akashagrawal.me/beginners-guide-to-megaparsec/)
 
 [What I wish I knew before learning Haskell](http://dev.stephendiehl.com/hask/)
