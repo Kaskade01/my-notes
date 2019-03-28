@@ -62,6 +62,8 @@ _not in order_
 
 [Gabriel Gonzalez - Detailed walkthrough for a beginner Haskell program](http://www.haskellforall.com/2018/10/detailed-walkthrough-for-beginner.html)
 
+[Resquing Yesod - Workers in Haskell](http://jdabbs.com/resquing-yesod/)
+
 ## Purescript
 [Justin Woo](https://qiita.com/kimagure)
 
