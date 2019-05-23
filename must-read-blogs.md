@@ -2,6 +2,9 @@
 _not in order_
 
 ## Haskell
+
+[Abstracting Permission with Yesod](http://blog.felipe.lessa.nom.br/?p=7)
+
 [Refactoring to Monad Transformer Stack](https://thoughtbot.com/blog/refactoring-to-a-monad-transformer-stack)
 
 [Beginner's guide to megaparsec](http://akashagrawal.me/beginners-guide-to-megaparsec/)
