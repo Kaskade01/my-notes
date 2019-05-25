@@ -3,6 +3,8 @@ _not in order_
 
 ## Haskell
 
+[Haskell Design Pattern: The Handle Pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html)
+
 [Abstracting Permission with Yesod](http://blog.felipe.lessa.nom.br/?p=7)
 
 [Refactoring to Monad Transformer Stack](https://thoughtbot.com/blog/refactoring-to-a-monad-transformer-stack)
